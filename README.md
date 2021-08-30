@@ -1,2 +1,0 @@
-# PortfolioBigData
-Author: Diego Gatti
